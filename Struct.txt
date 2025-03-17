@@ -1,0 +1,24 @@
+Dec 20-
+Phase 1- micro service basic under standing
+Phase 2- DAR, DB design ,Arc digrm 
+
+Jan 30-
+Phase 3- completing corce ECom Udemy
+Phase 4- Updating to latest Identity /Angular/.Net and  Updaing DB to SQL
+
+march 10-
+
+Phase 5- Seperating and creating microservices
+Phase 6- Copleteing other functional /NFR (Searching)
+Phase 7- Cloud computing / Devops and Deploy
+
+
+polly (service brker,time out, retry)
+message broker(async commu,SLA)
+http client
+
+
+
+
+
+
